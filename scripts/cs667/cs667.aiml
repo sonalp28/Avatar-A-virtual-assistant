@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>NAME _ TEACHER _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>NAME TEACHER CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CIS667 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CIS667 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN _ CLASS _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>ASSIGN CLASS CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CIS667 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CIS667 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT _ CIS667 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCT CIS667 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ PROFESSOR _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>NAME PROFESSOR CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 SUPERVISOR</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CIS667 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CIS667 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH _ CIS667 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACH CIS667 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISE CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCT _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCT CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CIS667 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CIS667 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TELL _ TEACH _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TELL TEACH CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSRUCTING _ CIS667 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSRUCTING CIS667 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ TAUGHT _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 TAUGHT PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ TEACH _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TEACH CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ INSTRUCTS _ CIS667 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR INSTRUCTS CIS667 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CIS667 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CIS667 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ TEACH _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER TEACH CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCT _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCT CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ TEACH _ PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 TEACH PROFESSOR</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ TEACH</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 TEACH</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 TEACHER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ TEACH _ TEACHER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 TEACH TEACHER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>SUPERVISOR CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>INSTRUCTS CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 TAUGHT</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER _ INSTRUCTS _ CIS667 _ SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>TEACHER INSTRUCTS CIS667 SEMESTER</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE _ CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<category>
+	<pattern>OVERSEE CIS667</pattern>
+	<template><srai>INSTRUCTOR 667</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>INSTRUCTOR 667</pattern>
+	<template>
+		<random>
+			<li>$Professor Garrett Katz is teaching CIS667. </li>
+			<li>$Professor Garrett Katz will be teaching CIS667. </li>
+			<li>$Instructor of CIS667 is Professor Garrett Katz. </li>
+			<li>$CIS667 is running under instruction of Professor Garrett Katz. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CIS667 _ WORTH _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 WORTH MANY CREDITS</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ CREDITS _ ADDITION</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 CREDITS ADDITION</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS _ CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CREDITS CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ CREDITS _ CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER CREDITS CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CIS667 _ WORTH</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CIS667 WORTH</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ CREDITS</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 CREDITS</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ GET _ COMPLETE _ CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS GET COMPLETE CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE _ CREDITS _ KA _ HAI _ CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>KITNE CREDITS KA HAI CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ WORTH _ NUMBER _ CREDITS</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 WORTH NUMBER CREDITS</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION _ CIS667 _ CREDITS</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>ADDITION CIS667 CREDITS</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ GIVE _ MANY _ CREDITS</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 GIVE MANY CREDITS</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ HOURS _ GIVE _ CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY HOURS GIVE CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>SUM _ HOURS _ GIVE _ WEEKLY _ CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>SUM HOURS GIVE WEEKLY CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ CREDITS _ CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY CREDITS CIS667</pattern>
+	<template><srai>CREDITS 667</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>CREDITS 667</pattern>
+	<template>
+		<random>
+			<li>$CIS 667 is worth 3 credits. </li>
+			<li>$CIS 667 is of 3 credits. </li>
+			<li>$3 credits are awarded on successful completion of CIS667. </li>
+			<li>$3 credits. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>CIS667 _ COURSE _ TITLE</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 COURSE TITLE</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ NAME</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 NAME</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ NAME _ CIS667</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE NAME CIS667</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN _ NAME _ CIS667</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>ACADEMICIAN NAME CIS667</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CIS667 _ TITLE</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CIS667 TITLE</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ COURSE _ NAME</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 COURSE NAME</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>NAME _ CIS667</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>NAME CIS667</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE _ CIS667</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>TITLE CIS667</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE _ CODE _ CIS667 _ NAME</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>COURSE CODE CIS667 NAME</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 _ TITLE</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<category>
+	<pattern>CIS667 TITLE</pattern>
+	<template><srai>TITLE 667</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>TITLE 667</pattern>
+	<template>
+		<random>
+			<li>$The course name of CIS667 is Artificial Intelligence. </li>
+			<li>$The course title of CIS667 is Artificial Intelligence. </li>
+			<li>$Course code CIS667 is Artificial Intelligence. </li>
+			<li>$CIS667 is Artificial Intelligence. </li>
+			<li>$Artificial Intelligence. </li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT _ CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ SURVEY _ CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT SURVEY CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ SURVEY _ CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT SURVEY CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ RETURN _ CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT RETURN CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATISTICIS _ CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATISTICIS CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ STATS _ CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT STATS CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT _ SURVEY _ CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>STUDENT SURVEY CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ RETURN _ CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT RETURN CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY _ STUDENT _ USE _ CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>MANY STUDENT USE CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER _ STUDENT _ CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<category>
+	<pattern>NUMBER STUDENT CIS667</pattern>
+	<template><srai>STUDENTSTRENGTH 667</srai></template>
+</category>
+
+<!-- answers -->
+<category>
+	<pattern>STUDENTSTRENGTH 667</pattern>
+	<template>
+		<random>
+			<li>$There are 60 students in CIS667. </li>
+			<li>$There are 60 students in Artificial Intelligence. </li>
+			<li>$60 students are enrolled in CIS667. </li>
+			<li>$60 students are enrolled in Artificial Intelligence. </li>
+			<li>$60 students have signed up for CIS667. </li>
+			<li>$60 students have signed up for Artificial Intelligence. </li>
+			<li>$The student strength of CIS667 is 60. </li>
+			<li>$The student strength of Artificial Intelligence is 60. </li>
+		</random>
+	</template>
+</category>
+
+
+</aiml>

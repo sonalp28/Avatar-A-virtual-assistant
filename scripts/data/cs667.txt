@@ -1,0 +1,10 @@
+import re
+#-----------------------------------------------------------------------------------
+g = open('cs667.aiml','w')
+
+COURSECODE = "667"
+PROFESSOR = "Garrett Katz"
+CREDITS = "3"
+TITLE = "Artificial Intelligence"
+STUDENTSTRENGTH = "60"
+#-----------------------------------------------------------------------------------

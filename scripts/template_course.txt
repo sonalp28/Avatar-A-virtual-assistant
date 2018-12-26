@@ -1,0 +1,15 @@
+#--------------------------------------------------------------
+cd ./reduced/
+sed -i 's/344/305/g' reduced_prof
+sed -i 's/344/305/g' reduced_title
+sed -i 's/344/305/g' reduced_credits
+sed -i 's/344/305/g' reduced_studentstrength
+
+cd ../
+python replace.py ./data/CIS667.txt
+python cpy_aiml.py
+rm -f cpy_aiml.py
+mv CIS667.aiml ./CIS667/
+cp ./CIS667/CIS667.aiml ../aiml/dept/CIS667.aiml
+
+#--------------------------------------------------------------
